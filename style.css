@@ -13,7 +13,7 @@
 }
 
 body {
-    background-image: url("fond.jpg");
+	background-color: #FFF;
     background-repeat: repeat;
     margin:0px;
 }
